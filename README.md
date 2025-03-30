@@ -2,7 +2,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://files.catbox.moe/5ixvs8.jpg'/></a>
 
 
-<p align="center">                                                           𝐓𝐈𝐌𝐍𝐀𝐒𝐀-𝐓𝐌𝐃 
+<p align="center">                                                           RAMADJR 
   
 
 </p>
@@ -15,7 +15,7 @@
  
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=𝐓𝐇𝐈𝐒+𝐈𝐒+𝐖𝐀𝐓𝐒𝐀𝐏𝐏-𝐁𝐎𝐓+𝐌𝐀𝐃𝐄+𝐁𝐘+𝐓𝐈𝐌𝐍𝐀𝐒𝐀+¶∆♥️🇹🇿" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=𝐓𝐇𝐈𝐒+𝐈𝐒+𝐖𝐀𝐓𝐒𝐀𝐏𝐏-𝐁𝐎𝐓+𝐌𝐀𝐃𝐄+𝐁𝐘+RAMADJR" alt="Typing SVG" /></a>
 
 
 
@@ -25,13 +25,13 @@
 #### SETUP 
 
 
-[`FORK`](https://github.com/Next5x/TIMNASA_TMD1/fork)
+[`FORK`](https://github.com/Next5x/RAMADJR/fork)
 
 
  
 
 
-[`PAIRING CODE`](https://timnasa-md42.onrender.com)
+[`PAIRING CODE`](https://RAMADJR-md42.onrender.com)
  
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
